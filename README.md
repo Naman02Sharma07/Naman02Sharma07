@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Naman</h1>
 <h3 align="center">I'm currently engaged in some exciting projects that are really capturing my interest. I'm thrilled about the innovative work I'm diving into and can't wait to see how these projects unfold.</h3>
